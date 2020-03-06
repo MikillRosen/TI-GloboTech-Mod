@@ -1,0 +1,21 @@
+DISCLAIMER: PLEASE BACK UP ORIGINAL FILES BEFORE REPLACING THEM.
+
+It is not recommended to play the campaign.
+
+How to install:
+Extract all contents of this archive (Except this text file. I hope you backed up original files) in the TI directory.
+
+Files to back up:
+Art.ini
+Rules.ini
+Sounds.ini
+No Silos.ini
+GameOptions.ini
+side01.mix
+side02.mix
+side03.mix
+Disable Support Powers.ini
+catapark.map
+
+Changelog:
+Fixed a bug where the GT Warehouse won't play its production animation when it produces a unit. (`Image` is buggy for some reason.)
