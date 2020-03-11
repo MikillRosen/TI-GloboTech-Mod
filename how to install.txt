@@ -19,4 +19,4 @@ side03.mix
 catapark.map
 
 Changelog:
-Fixed GloboTech Engineer's tech level.
+Pre-placed GT Tiberium Refineries, Tiberium Silos, Radar Arrays, Armories, and Hospitals are now capturable.
