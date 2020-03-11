@@ -19,4 +19,4 @@ side03.mix
 catapark.map
 
 Changelog:
-Fixed a bug where GloboTech won't lose Forsaken units when losing a Forsaken Hovel/Factory.
+Fixed GloboTech Engineer's tech level.
