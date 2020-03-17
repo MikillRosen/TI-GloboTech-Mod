@@ -19,4 +19,7 @@ side03.mix
 catapark.map
 
 Changelog:
-GloboTech can now get the new Railgun Tank Prototype when they capture a GDI Tech Center. This tank is exactly like GDI's Phalanx Railgun except it can't deploy to its Anti-Air mode.
+3 new stolen tech units!
+GDI Hover Missile Launcher: Available to build when capturing a (non pre-placed) GloboTech Armory.
+Nod Venom Walker: Available to build after building a Temple of Nod and when capturing a (non pre-placed) GloboTech Armory.
+GloboTech Mobile Stealth Generator: Available to build when capturing a Nod Tech Center.
