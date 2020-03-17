@@ -19,4 +19,4 @@ side03.mix
 catapark.map
 
 Changelog:
-Pre-placed Fusion Plants are now capturable.
+GloboTech can now get the new Railgun Tank Protoype when they capture a GDI Tech Center. This tank is exactly like GDI's Phalanx Railgun except it can't deploy to its Anti-Air mode.
