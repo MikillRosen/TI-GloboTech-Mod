@@ -13,13 +13,17 @@ Disable Support Powers.ini
 No GT Units.ini
 No Silos.ini
 GameOptions.ini
+Survival (Dawn).ini
+Twisted Dawn.ini
 side01.mix
 side02.mix
 side03.mix
 catapark.map
 
 Changelog:
-3 new stolen tech units!
-GDI Hover Missile Launcher: Available to build when capturing a (non pre-placed) GloboTech Armory.
-Nod Venom Walker: Available to build after building a Temple of Nod and when capturing a (non pre-placed) GloboTech Armory.
-GloboTech Mobile Stealth Generator: Available to build when capturing a Nod Tech Center.
+New GloboTech infantry unit! The Designated Grenadier! Voiced by Musketmarine
+Some changes to the Survival (Dawn) gamemode.
+Hover Missile Launcher's cost has been changed from 1550 to 1500
+Fixed GloboTech being unplayable in Twisted Dawn due to technical issues.
+Talos Walker is unavailable in Twisted Dawn.
+And so is the Research Laboratory.
