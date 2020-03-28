@@ -21,9 +21,4 @@ side03.mix
 catapark.map
 
 Changelog:
-New GloboTech infantry unit! The Designated Grenadier! Voiced by Musketmarine
-Some changes to the Survival (Dawn) gamemode.
-Hover Missile Launcher's cost has been changed from 1550 to 1500
-Fixed GloboTech being unplayable in Twisted Dawn due to technical issues.
-Talos Walker is unavailable in Twisted Dawn.
-And so is the Research Laboratory.
+changed GloboTech Harvester's cost from 1000 to 1200
