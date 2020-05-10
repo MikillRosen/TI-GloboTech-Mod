@@ -1,6 +1,6 @@
 DISCLAIMER: PLEASE BACK UP ORIGINAL FILES BEFORE REPLACING THEM.
 
-It is not recommended to play the campaign.
+It is not recommended to play the campaign with this mod installed.
 
 How to install:
 Extract all contents of this archive (Except this text file. I hope you backed up original files) in the TI directory.
@@ -21,4 +21,5 @@ side03.mix
 catapark.map
 
 Changelog:
-changed GloboTech Harvester's cost from 1000 to 1200
+Designated Grenadier (his voice is now a public asset, you can use it as long as you credit his voice actor https://ppmforums.com/post-585509/wav-grenadier-with-a-grenade-launcher-voice-over)replaced with Missile Defender, GloboTech's Anti-Tank and Anti-Air soldier (Original SHP by Dark Elf 2001 (http://www.yrargentina.com/old/index.php?page=shps/shpsi1), edited by yours truly. Uses the voice of the namesake unit from C&C: Generals)
+fixed Research Laboratory build-up animation
