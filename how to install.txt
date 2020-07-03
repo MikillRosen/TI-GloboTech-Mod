@@ -22,3 +22,4 @@ catapark.map
 
 Changelog:
 Missile Defender doesn't crash the game anymore
+Added a new random selector: GDI & Nod. Randomly selects between GDI & Nod to avoid choosing GT for AI players
