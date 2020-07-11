@@ -10,6 +10,7 @@ Art.ini
 Rules.ini
 Sounds.ini
 Disable Support Powers.ini
+Disabled Super Weapons.ini
 No GT Units.ini
 No Silos.ini
 GameOptions.ini
@@ -18,8 +19,19 @@ Twisted Dawn.ini
 side01.mix
 side02.mix
 side03.mix
+speech03.mix
 catapark.map
 
 Changelog:
-Missile Defender doesn't crash the game anymore
-Added a new random selector: GDI & Nod. Randomly selects between GDI & Nod to avoid choosing GT for AI players
+GDI & Nod AI now can't train GloboTech infantry.
+Pre-placed GloboTech base defenses are now unsellable.
+Reduced Sentinel's cost from 700 back to 650 (for real).
+Research Laboratory now has a missile silo that contains a superweapon called the Cruise Missile. Don't mind the text on the Cruise Missile icon that says "Energy Pulse".
+Research Laboratory re-enabled in Twisted Dawn.
+Sentinel disabled in Twisted Dawn.
+Replaced Jumpjet Commando with a sniper Commando in Twisted Dawn.
+Railgun Tank Prototype renamed to Phalanx Prototype.
+Phalanx Prototype disabled in Twisted Dawn.
+Hover Missile Launcher disabled in Twisted Dawn.
+Mobile Stealth Generator disabled in Twisted Dawn.
+Exo-Suit disabled in Twisted Dawn.
