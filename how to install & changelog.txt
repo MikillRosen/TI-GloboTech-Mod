@@ -1,0 +1,72 @@
+DISCLAIMER: PLEASE BACK UP ORIGINAL FILES BEFORE REPLACING THEM.
+
+It is not recommended to load a saved mission with this mod installed.
+
+How to install:
+Extract all contents of this archive (Except this text file. I hope you backed up original files) in the TI directory.
+
+Files to back up:
+Art.ini
+Rules.ini
+Sounds.ini
+Disable Support Powers.ini
+Disable Super Weapons.ini
+No GT Units.ini
+No Silos.ini
+GameOptions.ini
+Survival (Dawn Only).ini
+Survival.ini
+Twisted Dawn.ini
+Capturable Defenses.ini
+TPI.ini
+Uncrushable Infantry.ini
+Meat Grinder.ini
+Timeless Insurrection.ini
+Ultimate Insurrection.ini
+Unholy Alliance.ini
+MainMenu.ini (Located in Resources)
+MainMenu.ini (Located in Resources\GDITheme)
+MainMenu.ini (Located in Resources\GTTheme)
+MainMenu.ini (Located in Resources\NodTheme)
+side01.mix
+side02.mix
+side03.mix
+speech03.mix
+catapark.map
+
+How to uninstall:
+Replace modified files with original files mentioned above, delete ecache05.mix in the MIX folder, and delete GDI & Nodicon.png in the Resources folder.
+
+Changelog:
+Reduced GloboTech Engineer's cost from 600 to 500 in Twisted Dawn.
+Reduced GloboTech Engineer's vision from 5 to 4 in Twisted Dawn.
+Reduced GloboTech Engineer's speed from 5.5 to 4 in Twisted Dawn.
+Reduced GloboTech Engineer's health from 75 to 50 in Twisted Dawn.
+GloboTech Base Defenses built by players are now capturable with Capturable Base Defenses on.
+Venom Walker replaced with a new unit called the Light Disruptor when Disable Hero Units is on.
+GloboTech Commando disabled when Disable Hero Units is on.
+Jumpjet Commando disabled when Disable Hero Units is on.
+GloboTech Medic is now Tiberium-Resistant with Tiberium-Resistant Infantry on.
+Missile Defender is now Tiberium-Resistant with Tiberium-Resistant Infantry on.
+GloboTech Commando is now Tiberium-Resistant with Tiberium-Resistant Infantry on.
+GloboTech Medic is now uncrushable with Uncrushable Infantry on.
+Missile Defender is now uncrushable with Uncrushable Infantry on.
+Fixed GloboTech in Meat Grinder.
+Armadillo APC's weapon removed in Meat Grinder.
+Fixed GloboTech in Twisted Dawn Survival.
+Enabled armed GloboTech vehicles in Twisted Dawn Survival.
+Super Goliath now carries a crate in Twisted Dawn Survival.
+Disruptor now carries a crate in Twisted Dawn Survival.
+Fixed GloboTech in Survival.
+Reduced GloboTech Hospital's cost to 700.
+Sensor Tower is now Twisted Insurrection era only.
+GloboTech Medic is now Twisted Dawn era only.
+Ranged Medic is now Twisted Insurrection era only.
+Fusion Plant is now Twisted Insurrection era only.
+Changed Disable Tech Units tooltip.
+Protection wall is now is now Twisted Insurrection era only.
+Fixed GloboTech in Timeless Insurrection.
+Fixed GloboTech in Ultimate Insurrection.
+GloboTech Harvester now requires a GloboTech Warehouse to build.
+Fixed GloboTech in Unholy Alliance.ini.
+"New Campaign" button removed in the main menu.
