@@ -1,6 +1,8 @@
 # TI-GloboTech-Mod
 This mod makes GloboTech playable + adds new stuff. (You need Twisted Insurrection 0.8.0.7)
 
+Instructions on how to install are in the releases.
+
 Credits (SHP is a file format that contains sprites):
 
 Missile Defender SHP by Dark Elf 2001 (http://www.yrargentina.com/old/index.php?page=shps/shpsi1), edited by MikillRosen.
