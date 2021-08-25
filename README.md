@@ -1,4 +1,6 @@
 # TI-GloboTech-Mod
+(This mod is obsolete and archived since the new official Twisted Insurrection update added GloboTech.)
+
 This mod makes GloboTech playable + adds new stuff. (You need Twisted Insurrection 0.8.0.7)
 
 Instructions on how to install are in the releases.
